@@ -1,0 +1,27 @@
+2026-03-29 12:48:24 INFO  *********Creating user ******
+2026-03-29 12:48:30 INFO  *********User is created******
+2026-03-29 12:48:30 INFO  *********Reading user info******
+2026-03-29 12:48:34 INFO  *********User info is displayed******
+2026-03-29 12:48:34 INFO  *********Updating user ******
+2026-03-29 12:48:36 INFO  *********User is updated******
+2026-03-29 12:48:40 INFO  *********Deleting user ******
+2026-03-29 12:48:44 INFO  *********User deleted******
+2026-03-29 12:53:42 INFO  *********Creating user ******
+2026-03-29 12:53:46 INFO  *********User is created******
+2026-03-29 12:53:46 INFO  *********Reading user info******
+2026-03-29 12:53:47 INFO  *********User info is displayed******
+2026-03-29 12:53:47 INFO  *********Updating user ******
+2026-03-29 12:53:49 INFO  *********User is updated******
+2026-03-29 12:53:50 INFO  *********Deleting user ******
+2026-03-29 12:53:52 INFO  *********User deleted******
+2026-03-29 12:57:19 INFO  [TestNG] Running:
+  D:\DSA\Framework\testng.xml
+
+2026-03-29 12:57:19 INFO  *********Creating user ******
+2026-03-29 12:57:25 INFO  *********User is created******
+2026-03-29 12:57:25 INFO  *********Reading user info******
+2026-03-29 12:57:28 INFO  *********User info is displayed******
+2026-03-29 12:57:28 INFO  *********Updating user ******
+2026-03-29 12:57:31 INFO  *********User is updated******
+2026-03-29 12:57:35 INFO  *********Deleting user ******
+2026-03-29 12:57:38 INFO  *********User deleted******
